@@ -1,0 +1,51 @@
+# Normalize text files
+* text=auto
+
+# Python
+*.py text diff=python
+
+# Jupyter notebooks
+*.ipynb text diff
+
+# Markdown and configuration
+*.md text
+*.yml text
+*.yaml text
+*.json text
+*.toml text
+*.ini text
+*.cfg text
+
+# LaTeX
+*.tex text
+*.bib text
+
+# Shell scripts
+*.sh text eol=lf
+
+# Windows scripts
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary data / generated artifacts
+*.parquet binary
+*.npy binary
+*.npz binary
+*.duckdb binary
+*.pkl binary
+*.pickle binary
+*.joblib binary
+*.onnx binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+
+# PDF
+*.pdf binary
+
+# HTML reports
+*.html text

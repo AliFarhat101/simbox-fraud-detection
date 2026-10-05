@@ -1,0 +1,18 @@
+{
+    "params": {
+        "objective": "binary:logistic",
+        "eval_metric": "aucpr",
+        "eta": 0.04679268676711243,
+        "max_depth": 4,
+        "min_child_weight": 10,
+        "gamma": 0.5,
+        "subsample": 0.572249573943548,
+        "colsample_bytree": 0.8979068868124158,
+        "reg_alpha": 5.899704244372543,
+        "reg_lambda": 0.2755180255209402,
+        "scale_pos_weight": 16.39112801013942,
+        "seed": 42,
+        "n_jobs": -1
+    },
+    "num_boost_round": 700
+}

@@ -1,0 +1,30 @@
+Copyright (c) 2026 Ali Farhat
+
+Project Origin:
+This project was originally provided to the author by Vanrise Solutions as part of an assigned project.
+
+Ownership and Rights:
+The author, Ali Farhat, retains the rights to the original implementation, analysis, experimentation, documentation, and other original contributions contained in this repository, subject to any applicable rights, obligations, agreements, or restrictions arising from the original project assignment or from materials supplied by Vanrise Solutions.
+
+Permission:
+Permission is granted to view and study this repository for educational, academic, and portfolio purposes.
+
+Unless separately authorized in writing by the author and, where applicable, Vanrise Solutions, no permission is granted to:
+
+- redistribute this repository or substantial portions of it;
+- reproduce or publish the underlying project data;
+- commercially exploit the project or its original implementation;
+- represent the author's work as another person's work;
+- use confidential, proprietary, or third-party materials included in or referenced by the project;
+- publish or redistribute materials that are subject to separate rights or confidentiality restrictions.
+
+Third-Party and Project-Supplied Materials:
+Some materials, concepts, datasets, notebooks, configurations, or other resources used during the project may have originated from Vanrise Solutions or other third parties. Nothing in this license transfers ownership of such materials to the author or grants rights beyond those applicable to the respective materials.
+
+Data:
+The original telecommunications CDR datasets and other data-derived artifacts are not included in this repository. Their use, reproduction, or redistribution is subject to the rights and restrictions applicable to the original project and data provider.
+
+No Warranty:
+This repository is provided "as is", without warranty of any kind, express or implied. The author shall not be liable for any claim, damages, or other liability arising from the use of the repository or its contents.
+
+For permissions beyond those expressly granted above, please contact the author.

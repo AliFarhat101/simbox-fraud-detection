@@ -1,0 +1,33 @@
+# Core data processing
+pandas
+numpy
+pyarrow
+
+# Database / SQL
+duckdb
+
+# Machine learning
+scikit-learn
+xgboost
+optuna
+shap
+
+# Experiment tracking / dataset versioning
+mlflow
+dvc
+dvc-s3
+
+# Exploratory data analysis
+sweetviz
+
+# Application
+streamlit
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
+nbformat
